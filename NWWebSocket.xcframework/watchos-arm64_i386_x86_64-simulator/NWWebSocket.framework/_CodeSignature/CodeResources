@@ -6,47 +6,59 @@
 	<dict>
 		<key>Headers/NWWebSocket-Swift.h</key>
 		<data>
-		2ZS0hyH8Tut4KL3A3CWKiL9CEWc=
+		ARkR7XUrEhULoI/pJvYWbh+IT6E=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eZ17+qwO28aDXmhPcQk2dKHCp4A=
+		DL6Yd0IMhb4XvFB0eiNWA6sX5cU=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		9oWl3ZKqTkD79+qGBagkR/+9vJ0=
+		8bHRw1V9ZeNpIHyt48bqdaiTbh0=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		HZdJBaPEGwhdMdbRzdygOKjkEd0=
+		7Lxxqw2kN7jLp8xl2C8m90svJso=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		dac2Hs2WQO2J8K1CG18frG3b22A=
+		Hn2n05uhk3ZZiycm1tgbZ1AU9pA=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		rH87uiZ6Up9RIkw0WRVkd+lvrRQ=
+		MlNlrXhxKowxpXat3HLLGwnOAvs=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		3zfOzR9f0NfbibSGSRHICpHYy7M=
+		odduiLr3EZ7Te4REbsR2botM72I=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		6VxXSsDB0mUjowcWfpq4/czEXMc=
+		nQY691OaYe5bZaxCSmqj6/VArBk=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		tV1xOloDaV80EHSTKzngiwhSupk=
+		M2NintZ3JPR7GlJ8d0Uz/7YL7Oc=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		2t2F1nbfnx3cYCQ1bJAnpgq7lKc=
+		ohpQrTBJNHVPeyKjLEbuCATlO2E=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ILDjEiqW5uhJXFQ2PkgDsBjxhGs=
+		9vguqNcmOd+sBIp+ULVuL1Y0fOQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,70 +67,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qLC8Mg5x1xOGAbjkv/tcKEk/n2CJgjRn0B99nQNAcIk=
+			xhe3p93NGHuWfrFzjeYPXHFdmOpJ2XhDlEnjMjcd8zY=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IcyIaRC2DvwZMopLGh4XJOLIKOGGYjEXdgT2BiWof1o=
+			ev9/+zI2FjkhBB8djnlocy94oyeIurb7j/3MqPKHXiA=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOZJRhDPQh5ixEx3Vaz3ViclrNkX4gGFNethWlvtTXU=
+			DolPu6OlT80RSl0qUsw0+GT7/HpRxG69qp7HVPrFpzQ=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vrSYWhHVshf6e3oy4dIsWntONfPwsLD7CZaBoxpw/Us=
+			XQmTuMSS0uA57i/MpcX67VN4MmDH343pQq1aNyTwNhA=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJWt+gcSJvRz8UlSnTBojdZcEVKUpkFuRgrKAnT2d7I=
+			4rUpnZa4qeIcw0m9Fw6C6a2dE0/+nda+EwDF405f/JY=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ye/tpzbPqfm3qf+fTu3mripOlV6dEB3tfS2L9hpnqSk=
+			VeJ0x4ZI5x0pF+VFG4gAP6yAHjM9b89xf6UWKtB6USM=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YUZe5DeuLQ0zTEOXAYXwnRu3y6gUm193BasOeHhIrf4=
+			AS4fPK5NIbNQbD3X6lFaXQ1SmBdmse3QHlJxm3+BelI=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8NOKMOfQVO0O1rLhQ/l1jpfSBsB18MDX1JSISxumflY=
+			2cTQaNzdO01mpYr6xAHvJdhuqQKw+WuGe3uWLSCZ/dk=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QRDpi8MX4fJG5J8Yq/BR0Y8/ctjCSp0LqoED1+Vxx4E=
+			YQ4afSixvAy0WtAzdxBdWSlDAlP6FKpPwVAKLfJrBjU=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rs3miVDj27dh9h9TNgY3dJSd0RG4A/4Lv7cIWhdlyXE=
+			3Gc6q3cmPmZpj0jBvXUb3DPhBCr7IzXsf6pwb+X3yKk=
 			</data>
 		</dict>
 	</dict>

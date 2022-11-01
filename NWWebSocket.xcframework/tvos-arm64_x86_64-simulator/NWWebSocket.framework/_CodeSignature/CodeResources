@@ -6,35 +6,43 @@
 	<dict>
 		<key>Headers/NWWebSocket-Swift.h</key>
 		<data>
-		Nm7eibwfbJCj/jarSMiuBaY2MaI=
+		8YR8cwkbPMfE5BzfdJIFWFeWHMo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		91/IzjpiiTvXXjWxj2sj00AFZhk=
+		Sf1Sl4rqxXOGdEDdbcOOKWijUCA=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		7bxdBbpo9V5vz0ZH9dGSkv8mCsI=
+		ChTvWTMUY76TsJ4q4AffmFT54oA=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		8vZOjGTrQ9DLGtJ21wuCyA2NeAQ=
+		KfZfh1MyUszX6gxX2cJBaUcnGXk=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		lTgqPOSvLWzJExvEn1IGmS4+UZk=
+		yxymDYsZwJLwv2X7UpqClsdg7v0=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		cdB/IoOn1QFgX8OdpK8LjyavLOk=
+		x3qa472mbB4ty3aRgWT2kGPiFuw=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		FpufsAm7Rm7kjikZehtVCxI+Xlo=
+		8fIaPtmtWg0bAeY6womSeJPZ0sU=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		04Z3nPKNkEE0WjBtUi8xuXwd4oM=
+		eH5sljEDu1VsXA67biVG/ud0RUg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,49 +51,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KkkZ/P+5qqyjyQ/XDNs8hdNxoczQ8ddB/yKMKiiVs9s=
+			WODooP4kmWGuZZ8RCztTBOIDxr+6cEtWkLMMaZGN6sc=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3TGF7qmrRMWfir5JjbfQyYPn3DEKERCQoWk12q7UgiY=
+			atzM/JWF9cTOMFmERT2/grohFA8QvbnIfwRrenurzOI=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPlhfEFD/Nz697NsjJJuy961N6Hx+I689rtqtNEYs14=
+			kcT0Ah0sKFJ0Z5q+ja3VBqeMVKaEYEX4TbVeocsPdDU=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2bk3EW+xfCiKkZ1PO4CugVtM4xuQhejBdRZFYrTcv5s=
+			rccdpYqyuE7pdMWnxfJrResO5YUqrkPHYOAHH8C1q+s=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qrnLAFpJaUvNdUuqNjvu1Fn2FJYEFLOZcAIDJtdD0WY=
+			tGeZ7VQHFz217nIjuTIgoF0VnGkwvNhf7ie++iU++iI=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6e03Pv4HRMziJSdlyan40kEjXP6EgNxA2KbHXPCzgqA=
+			3PU/83KBQ+tRWiKbuAOo6GO3hCuUJWygGYNVye4XXTc=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jX4OTUH/DX2pf0d9OUgAzBYTPuPfbFXLymTv3Km7JE4=
+			m0vrBOmIDrTWnOX0RidmFlTNZn39MhEykaBI5xSkJac=
 			</data>
 		</dict>
 	</dict>
