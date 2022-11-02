@@ -14,35 +14,51 @@
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		MbAvXku9la6icNMzLDPsajYgDp4=
+		cz+GJuNaousJ/l4hDWQevMi8ckU=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		cjQvT/uJ0GABll+12wvkojYsrSo=
+		/wAxBEOT1d457l3wEaEf4gf5tFY=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		FNtUnjQRsQYvqwmD0qcvbdLQSH0=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		6nifG/tA66nUO+yPd5vs4P3qFuE=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		0bDjxGGmLctEmC8DjHSKvBb1jTM=
 		</data>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		6nifG/tA66nUO+yPd5vs4P3qFuE=
+		</data>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PDlYDdTW0rh/zkNnoyMOQJiWWmg=
+		bbH+rcOFruCtseJtIGSF9Hmwobg=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		FNtUnjQRsQYvqwmD0qcvbdLQSH0=
+		</data>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		gKwSuEbxCT6wdA7JoicH25tNYak=
 		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		gokW5fQVQYfc7k4y+IpD2nhGxl8=
 		</data>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		gKwSuEbxCT6wdA7JoicH25tNYak=
+		</data>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gwty2zeLQb6G3VieNuYhylSxf1s=
+		l7JJqdPTNOFHqxCk7T7mbGWZAYs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -58,21 +74,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kE6QTwpVmF6NC9wz0gYNCUkp5W0jICjCMJYLVxj9LDQ=
+			nNYf7V/swUSomD7+YuFETT5mZTPYedE9AaYCmCz4jqg=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UQAMNWzoVADJ2776PMheCcAabklSaZRUcAcYqerj1pI=
+			eGfQ8QHxdO71iOP5nofSP3u+iy79bqhpdb7GuUElTMw=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			KTYUSxS1A/h2PFH7p2WdtVX2/4P2jiOWruFaWmnwpIM=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8z4ykFVpor8dPnhJeu5j52/mXaRdETY6AfvcHO82hGM=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -82,18 +105,32 @@
 			XlHqKDhxrK2vD5o6yGNsTAdEIb414US4gWbWQmtSizs=
 			</data>
 		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8z4ykFVpor8dPnhJeu5j52/mXaRdETY6AfvcHO82hGM=
+			</data>
+		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+wiUliOditHQvRAILVoWQ+ln7O8AyqIQm4B7u55GhOQ=
+			NDDmpuKASUOuLekmhXa7SqdV1dKOm8uOWSUWV/mrOCI=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			KTYUSxS1A/h2PFH7p2WdtVX2/4P2jiOWruFaWmnwpIM=
+			</data>
+		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G7b0pXSthZc6N74yIhGVKbd3SbUz+c7Zw6sYLvtLtD0=
 			</data>
 		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -103,11 +140,18 @@
 			1u4Z/lbrHEU/W7aMARRidIX72IxQoVnWIDfMimDiIO8=
 			</data>
 		</dict>
+		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G7b0pXSthZc6N74yIhGVKbd3SbUz+c7Zw6sYLvtLtD0=
+			</data>
+		</dict>
 		<key>Modules/NWWebSocket.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jBR3jsSbtMMDRs0S7JXNCYu+LtLkgGU8pa+jXOWGN3k=
+			Wjk+u9K3giCDKgdHY9w9yYageoZtGK20zNClKe1npWY=
 			</data>
 		</dict>
 	</dict>
