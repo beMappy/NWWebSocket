@@ -1257,21 +1257,21 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/NWWebSocket\/Sources\/NWWebSocket\/Extension\/NWConnection+Extension.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Extension\/NWConnection+Extension.swift",
       "kind": "BooleanLiteral",
       "offset": 66,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
       "kind": "BooleanLiteral",
       "offset": 794,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
       "kind": "BooleanLiteral",
       "offset": 1196,
       "length": 5,
