@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'XCNWWebSocket'
-    s.version          = '0.5.2-xc14.2-1'
+    s.version          = '0.5.2-xc14.2-2'
     s.summary          = 'A WebSocket client written in Swift, using the Network framework from Apple. (https://github.com/pusher/NWWebSocket)'
     s.homepage         = 'https://github.com/beMappy/NWWebSocket'
     s.license          = 'MIT'

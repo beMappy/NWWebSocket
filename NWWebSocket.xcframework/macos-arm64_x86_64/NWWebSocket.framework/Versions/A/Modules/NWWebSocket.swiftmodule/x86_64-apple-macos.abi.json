@@ -27,8 +27,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "NWWebSocket",
-        "printedName": "NWWebSocket",
+        "name": "NWWebSocketService",
+        "printedName": "NWWebSocketService",
         "children": [
           {
             "kind": "Var",
@@ -42,8 +42,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvp",
-            "mangledName": "$s11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvp",
+            "usr": "s:11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvp",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvp",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -77,8 +77,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvg",
-                "mangledName": "$s11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvg",
+                "usr": "s:11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvg",
+                "mangledName": "$s11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvg",
                 "moduleName": "NWWebSocket",
                 "implicit": true,
                 "isOpen": true,
@@ -110,8 +110,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvs",
-                "mangledName": "$s11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvs",
+                "usr": "s:11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvs",
+                "mangledName": "$s11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvs",
                 "moduleName": "NWWebSocket",
                 "implicit": true,
                 "isOpen": true,
@@ -129,8 +129,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvM",
-                "mangledName": "$s11NWWebSocketAAC8delegateAA03WebB18ConnectionDelegate_pSgvM",
+                "usr": "s:11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvM",
+                "mangledName": "$s11NWWebSocket0aB7ServiceC8delegateAA03WebB18ConnectionDelegate_pSgvM",
                 "moduleName": "NWWebSocket",
                 "implicit": true,
                 "isOpen": true,
@@ -151,8 +151,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:11NWWebSocketAAC14defaultOptions7Network013NWProtocolWebB0C0D0CvpZ",
-            "mangledName": "$s11NWWebSocketAAC14defaultOptions7Network013NWProtocolWebB0C0D0CvpZ",
+            "usr": "s:11NWWebSocket0aB7ServiceC14defaultOptions7Network013NWProtocolWebB0C0E0CvpZ",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC14defaultOptions7Network013NWProtocolWebB0C0E0CvpZ",
             "moduleName": "NWWebSocket",
             "static": true,
             "declAttributes": [
@@ -173,8 +173,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11NWWebSocketAAC14defaultOptions7Network013NWProtocolWebB0C0D0CvgZ",
-                "mangledName": "$s11NWWebSocketAAC14defaultOptions7Network013NWProtocolWebB0C0D0CvgZ",
+                "usr": "s:11NWWebSocket0aB7ServiceC14defaultOptions7Network013NWProtocolWebB0C0E0CvgZ",
+                "mangledName": "$s11NWWebSocket0aB7ServiceC14defaultOptions7Network013NWProtocolWebB0C0E0CvgZ",
                 "moduleName": "NWWebSocket",
                 "static": true,
                 "declAttributes": [
@@ -191,9 +191,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "NWWebSocket",
-                "printedName": "NWWebSocket.NWWebSocket",
-                "usr": "s:11NWWebSocketAAC"
+                "name": "NWWebSocketService",
+                "printedName": "NWWebSocket.NWWebSocketService",
+                "usr": "s:11NWWebSocket0aB7ServiceC"
               },
               {
                 "kind": "TypeNominal",
@@ -224,8 +224,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:11NWWebSocketAAC7request20connectAutomatically7options15connectionQueueAB10Foundation10URLRequestV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
-            "mangledName": "$s11NWWebSocketAAC7request20connectAutomatically7options15connectionQueueAB10Foundation10URLRequestV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
+            "usr": "s:11NWWebSocket0aB7ServiceC7request20connectAutomatically7options15connectionQueueAC10Foundation10URLRequestV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC7request20connectAutomatically7options15connectionQueueAC10Foundation10URLRequestV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
             "moduleName": "NWWebSocket",
             "declAttributes": [
               "Convenience",
@@ -241,9 +241,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "NWWebSocket",
-                "printedName": "NWWebSocket.NWWebSocket",
-                "usr": "s:11NWWebSocketAAC"
+                "name": "NWWebSocketService",
+                "printedName": "NWWebSocket.NWWebSocketService",
+                "usr": "s:11NWWebSocket0aB7ServiceC"
               },
               {
                 "kind": "TypeNominal",
@@ -274,8 +274,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:11NWWebSocketAAC3url20connectAutomatically7options15connectionQueueAB10Foundation3URLV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
-            "mangledName": "$s11NWWebSocketAAC3url20connectAutomatically7options15connectionQueueAB10Foundation3URLV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
+            "usr": "s:11NWWebSocket0aB7ServiceC3url20connectAutomatically7options15connectionQueueAC10Foundation3URLV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC3url20connectAutomatically7options15connectionQueueAC10Foundation3URLV_Sb7Network013NWProtocolWebB0C7OptionsCSo17OS_dispatch_queueCtcfc",
             "moduleName": "NWWebSocket",
             "declAttributes": [
               "AccessControl"
@@ -294,8 +294,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC7connectyyF",
-            "mangledName": "$s11NWWebSocketAAC7connectyyF",
+            "usr": "s:11NWWebSocket0aB7ServiceC7connectyyF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC7connectyyF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -322,8 +322,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC4send6stringySS_tF",
-            "mangledName": "$s11NWWebSocketAAC4send6stringySS_tF",
+            "usr": "s:11NWWebSocket0aB7ServiceC4send6stringySS_tF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC4send6stringySS_tF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -349,8 +349,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC4send4datay10Foundation4DataV_tF",
-            "mangledName": "$s11NWWebSocketAAC4send4datay10Foundation4DataV_tF",
+            "usr": "s:11NWWebSocket0aB7ServiceC4send4datay10Foundation4DataV_tF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC4send4datay10Foundation4DataV_tF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -370,8 +370,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC6listenyyF",
-            "mangledName": "$s11NWWebSocketAAC6listenyyF",
+            "usr": "s:11NWWebSocket0aB7ServiceC6listenyyF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC6listenyyF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -397,8 +397,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC4ping8intervalySd_tF",
-            "mangledName": "$s11NWWebSocketAAC4ping8intervalySd_tF",
+            "usr": "s:11NWWebSocket0aB7ServiceC4ping8intervalySd_tF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC4ping8intervalySd_tF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -418,8 +418,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC4pingyyF",
-            "mangledName": "$s11NWWebSocketAAC4pingyyF",
+            "usr": "s:11NWWebSocket0aB7ServiceC4pingyyF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC4pingyyF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -446,8 +446,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11NWWebSocketAAC10disconnect9closeCodey7Network013NWProtocolWebB0C05CloseE0O_tF",
-            "mangledName": "$s11NWWebSocketAAC10disconnect9closeCodey7Network013NWProtocolWebB0C05CloseE0O_tF",
+            "usr": "s:11NWWebSocket0aB7ServiceC10disconnect9closeCodey7Network013NWProtocolWebB0C05CloseF0O_tF",
+            "mangledName": "$s11NWWebSocket0aB7ServiceC10disconnect9closeCodey7Network013NWProtocolWebB0C05CloseF0O_tF",
             "moduleName": "NWWebSocket",
             "isOpen": true,
             "declAttributes": [
@@ -457,8 +457,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:11NWWebSocketAAC",
-        "mangledName": "$s11NWWebSocketAAC",
+        "usr": "s:11NWWebSocket0aB7ServiceC",
+        "mangledName": "$s11NWWebSocket0aB7ServiceC",
         "moduleName": "NWWebSocket",
         "isOpen": true,
         "declAttributes": [
@@ -1264,16 +1264,16 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocketService.swift",
       "kind": "BooleanLiteral",
-      "offset": 794,
+      "offset": 801,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocket.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/NWWebSocket\/Sources\/NWWebSocket\/Model\/Client\/NWWebSocketService.swift",
       "kind": "BooleanLiteral",
-      "offset": 1196,
+      "offset": 1210,
       "length": 5,
       "value": "false"
     }

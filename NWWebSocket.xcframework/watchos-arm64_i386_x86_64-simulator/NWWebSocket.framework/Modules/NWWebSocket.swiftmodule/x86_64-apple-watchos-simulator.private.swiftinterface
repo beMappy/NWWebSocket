@@ -7,13 +7,13 @@ import Network
 import Swift
 import _Concurrency
 import _StringProcessing
-open class NWWebSocket : NWWebSocket.WebSocketConnection {
+open class NWWebSocketService : NWWebSocket.WebSocketConnection {
   weak public var delegate: NWWebSocket.WebSocketConnectionDelegate?
   public static var defaultOptions: Network.NWProtocolWebSocket.Options {
     get
   }
-  convenience public init(request: Foundation.URLRequest, connectAutomatically: Swift.Bool = false, options: Network.NWProtocolWebSocket.Options = NWWebSocket.defaultOptions, connectionQueue: Dispatch.DispatchQueue = .main)
-  public init(url: Foundation.URL, connectAutomatically: Swift.Bool = false, options: Network.NWProtocolWebSocket.Options = NWWebSocket.defaultOptions, connectionQueue: Dispatch.DispatchQueue = .main)
+  convenience public init(request: Foundation.URLRequest, connectAutomatically: Swift.Bool = false, options: Network.NWProtocolWebSocket.Options = NWWebSocketService.defaultOptions, connectionQueue: Dispatch.DispatchQueue = .main)
+  public init(url: Foundation.URL, connectAutomatically: Swift.Bool = false, options: Network.NWProtocolWebSocket.Options = NWWebSocketService.defaultOptions, connectionQueue: Dispatch.DispatchQueue = .main)
   open func connect()
   open func send(string: Swift.String)
   open func send(data: Foundation.Data)
